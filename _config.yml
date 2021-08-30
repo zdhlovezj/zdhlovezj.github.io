@@ -1,44 +1,25 @@
 # Basic
-title: 张德华
-subtitle: 个人主页
+title: 我们
+subtitle: 主页
 description: 莫负相逢人海间
 # 头像里面的标题
-avatarTitle: 珍重
+avatarTitle: 相遇
 # 头像里面的描述
 avatarDesc: 2021
-url: "https://zhang-dehua.github.io"
-#url: "https://leopardpan.cn"
+url: "https://zdhlovezj.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
-# Comment
-comment:
-    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    # disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
-
 # Social
 social:
     #weibo: 5366874726 
-    github: zhang-dehua
+    github: zdhlovezj
     # zhihu: panpanleopard
     # juejin: xxx
     #jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: zdh1995@mail.ustc.edu.cn
-
-
-# # 百度统计 
-# # 使用博客模板请去掉或者更换 id 
-# baidu:
-#     id: 8ba1c6be0953b6f9c2ba38e57f615421  
-
-# # Google Analytics
-# # 使用博客模板请去掉或者更换 id
-# ga:
-#     id: UA-84134159-3  
-#     host: auto  
+    mail: zdhlovezj@126.com
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -56,7 +37,7 @@ cover_color: #clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 主页
 
 # Navigation buttons in the front page.s
 nav:
