@@ -1,7 +1,7 @@
 # Basic
 title: 我们
 #subtitle: 主页
-description: 莫负相逢人海间
+description: 莫负相逢
 # 头像里面的标题
 avatarTitle: 相遇
 # 头像里面的描述
@@ -41,8 +41,8 @@ cover_color: #clear
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 来看看吧, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}          
+    - {title: 快来看看吧, description: archive, url: '/archive'}   
+    - {title: 内容标签, description: tags, url: '/tags'}          
     #- {title: 关于我, description: about, url: '/about'}   
     
 
