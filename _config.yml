@@ -43,7 +43,7 @@ cover_color: #clear
 nav:
     - {title: 来看看吧, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}  
-    - {title: 照片, description: about, url: '/pictures'}   
+    #- {title: 照片, description: about, url: '/pictures'}   
     - {title: 关于我们, description: about, url: '/about'}   
     
 
