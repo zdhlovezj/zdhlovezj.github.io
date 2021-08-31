@@ -1,7 +1,7 @@
 
 ### Website of Zhou Jie and Zhang Dehua
 
-欢迎大家访问我们的 [个人主页](https://zdhlovezj.github.io/)
+欢迎大家访问我们的 [主页](https://zdhlovezj.github.io/)
 
 
 ### 感谢   
